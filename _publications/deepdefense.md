@@ -10,4 +10,5 @@ citation: 'Yan, Ziang, Yiwen Guo, and Changshui Zhang. "DeepDefense: Training De
 ---
 Deep Defense is recipe to improve the robustness of DNNs to adversarial perturbations. We integrate an adversarial perturbation-based regularizer into the training objective, such that the obtained models learn to resist potential attacks in a principled way.
 
-[Download paper here](/files/deepdefense.pdf)
+[paper](/files/deepdefense.pdf) [code](https://github.com/ZiangYan/deepdefense.pytorch)
+
