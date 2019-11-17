@@ -12,5 +12,5 @@ In this paper, we analyze the generalization ability of DNNs comprehensively and
 We propose adversarial margin maximization (AMM), a learning-based regularization which exploits an adversarial perturbation as a proxy. 
 It encourages a large margin in the input space, just like the support vector machines.
 
-[paper](https://ieeexplore.ieee.org/document/8877866) [code coming soon](#)
+[paper](https://ieeexplore.ieee.org/document/8877866) [paper (arxiv version)](https://arxiv.org/abs/1911.05916) [code](https://github.com/ZiangYan/amm.pytorch)
 
