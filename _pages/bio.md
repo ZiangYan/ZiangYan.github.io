@@ -17,11 +17,16 @@ Education
 
 Experience
 ======
+* Nov 2019 - Present: Research Intern 
+  * ByteDance AI Lab
+  * Improve query efficiency for hard-label black-box attack using reinforcement learning
+  * Supervisor: [Yiwen Guo](https://yiwenguo.github.io/)
+
 * Sep 2018 - Jun 2019: Research Intern
   * Intel Labs China
   * Improve DNN's adversarial robustness && more query efficient black-box attack
-  * Supervisor: [Jianguo Li](https://sites.google.com/site/leeplus/) and [Yiwen Guo](https://www.intel.ai/bio/yiwen-guo/)
-  * Publication: [Subspace Attack (NeurIPS 2019)](http://localhost:4000/publication/subspace_attack)
+  * Supervisor: [Jianguo Li](https://sites.google.com/site/leeplus/) and [Yiwen Guo](https://yiwenguo.github.io/)
+  * Publication: [Subspace Attack (NeurIPS 2019)](/publication/subspace_attack) and [AMM (T-PAMI 2019)](/publication/amm)
 
 * Mar 2018 - Jun 2018: BlockChain Developer
   * Create an ETH game named AlchemyGod with my classmates
@@ -30,8 +35,8 @@ Experience
 * Aug 2017 - May 2018: Research Assistant
   * Tsinghua University && Intel Labs China
   * Defend against adversarial attacks by forcing attackers to increase perturbation norm
-  * Supervisor: [Yiwen Guo](https://www.intel.ai/bio/yiwen-guo/)
-  * Publication: [DeepDefense (NeurIPS 2018)](http://localhost:4000/publication/deepdefense)
+  * Supervisor: [Yiwen Guo](https://yiwenguo.github.io/)
+  * Publication: [DeepDefense (NeurIPS 2018)](/publication/deepdefense)
 
 * 2015 - 2017: Research Assistant
   * Department of Automation, Tsinghua University
